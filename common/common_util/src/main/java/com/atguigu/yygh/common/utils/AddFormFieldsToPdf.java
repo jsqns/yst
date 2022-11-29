@@ -6,7 +6,7 @@ public class AddFormFieldsToPdf {
     BigDecimal bigDecimal1;
     public static void main(String[] args) throws Exception {
         CanonPiano test1 = new CanonPiano();
-        BigDecimal bigDecimal = new BigDecimal(1).add(test1.getBigDecimal());
+//        BigDecimal bigDecimal = new BigDecimal(1).add(test1.getBigDecimal());
 
 //        //创建PdfDocument对象，并添加页面
 //        PdfDocument doc = new PdfDocument();
